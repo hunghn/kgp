@@ -1,0 +1,31 @@
+[21-Nov-2013 14:41:05 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/drama/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[21-Nov-2013 14:42:29 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/drama/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[21-Nov-2013 14:44:57 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/drama/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[21-Nov-2013 14:44:57 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/drama/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[30-Nov-2013 15:21:12 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/drama/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[07-Dec-2013 19:12:11 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/drama/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[08-Dec-2013 20:22:33 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/drama/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[09-Feb-2014 17:50:07 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[09-Feb-2014 18:03:25 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[09-Feb-2014 18:03:25 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[11-Feb-2014 15:56:37 Europe/Sofia] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message '[ERROR 73] expected '>' (in /home/dhdemoin/public_html/organic/components/com_roksprocket/layouts/strips/meta.xml - line 27, column 4)
+[ERROR 76] Opening and ending tag mismatch: parameters line 3 and container (in /home/dhdemoin/public_html/organic/components/com_roksprocket/layouts/strips/meta.xml - line 33, column 13)
+[ERROR 77] Premature end of data in tag container line 2 (in /home/dhdemoin/public_html/organic/components/com_roksprocket/layouts/strips/meta.xml - line 34, column 1)' in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Service/Container/Loader/File/Xml.php:220
+Stack trace:
+#0 /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Service/Container/Loader/File/Xml.php(52): RokCommon_Service_Container_Loader_File_Xml->getFilesAsXml(Array)
+#1 /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Service/Container/AbstractLoader.php(79): RokCommon_Service_Container_Loader_File_Xml->doLoad(Array)
+#2  in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Service/Container/Loader/File/Xml.php on line 220
+[11-Feb-2014 15:56:46 Europe/Sofia] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message '[ERROR 73] expected '>' (in /home/dhdemoin/public_html/organic/components/com_roksprocket/layouts/strips/meta.xml - line 27, column 4)
+[ERROR 76] Opening and ending tag mismatch: parameters line 3 and container (in /home/dhdemoin/public_html/organic/components/com_roksprocket/layouts/strips/meta.xml - line 33, column 13)
+[ERROR 77] Premature end of data in tag container line 2 (in /home/dhdemoin/public_html/organic/components/com_roksprocket/layouts/strips/meta.xml - line 34, column 1)' in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Service/Container/Loader/File/Xml.php:220
+Stack trace:
+#0 /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Service/Container/Loader/File/Xml.php(52): RokCommon_Service_Container_Loader_File_Xml->getFilesAsXml(Array)
+#1 /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Service/Container/AbstractLoader.php(79): RokCommon_Service_Container_Loader_File_Xml->doLoad(Array)
+#2  in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Service/Container/Loader/File/Xml.php on line 220
+[13-Feb-2014 22:10:08 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[13-Feb-2014 22:11:02 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[13-Feb-2014 22:11:42 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[15-Feb-2014 18:17:26 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/administrator/components/com_uniterevolution2/inc_php/revslider_slider.class.php on line 863
+[15-Feb-2014 18:18:43 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/administrator/components/com_uniterevolution2/inc_php/revslider_slider.class.php on line 863
+[16-Feb-2014 19:47:23 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
+[16-Feb-2014 20:34:13 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/dhdemoin/public_html/organic/libraries/rokcommon/RokCommon/Dispatcher.php on line 84
